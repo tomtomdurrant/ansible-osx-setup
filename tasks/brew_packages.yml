@@ -1,0 +1,5 @@
+- name: "Brew bundle"
+  shell: brew bundle
+  tags:
+    - brew
+    - install
